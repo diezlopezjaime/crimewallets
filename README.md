@@ -1,6 +1,8 @@
 # Crime Wallets
 
-<h1 align="center">🕵️‍♂️</h1>
+<p align="center">
+  <img src="./crimewallet.png" alt="Crime Wallet mascot" width="300">
+</p>
 A community blocklist containing **4,816 Solana wallets** identified from aged-wallet sale listings.
 
 The goal is simple: help traders flag wallets that may be used to make bundled launches or coordinated activity look organic.
